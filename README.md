@@ -10,6 +10,7 @@
 - C++
 - Python
 - Jango
+- MySQL
 - JavaScript
 - PHP
 - HTML
