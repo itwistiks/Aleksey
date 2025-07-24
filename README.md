@@ -6,10 +6,8 @@
 - 👺 I like extreme sports
 
 ### Languages and Tools
-- C
 - C++
 - Python
-- Jango
 - MySQL
 - JavaScript
 - PHP
